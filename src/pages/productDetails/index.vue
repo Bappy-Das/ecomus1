@@ -3,7 +3,7 @@
     <div class="">
       <Breadcrumb></Breadcrumb>
     </div>
-    <div class="container mx-auto pt-16">
+    <div class="container mx-auto pt-16 px-5">
       <div>
         <div
           v-if="isShow"
